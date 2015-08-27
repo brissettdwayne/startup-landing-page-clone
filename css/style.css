@@ -425,6 +425,9 @@ td,
 th {
   padding: 0;
 }
+/* End Of Reset */
+/* Start of Custom Styles */
+
 body {
     background-color: LightGray;
 }
@@ -439,4 +442,7 @@ div {
   width: 970px;
   height: 70px;
   margin: 0 auto;
+}
+.top-navigation .logo {
+    height: 4.375rem;
 }
