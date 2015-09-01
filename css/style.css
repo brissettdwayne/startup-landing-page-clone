@@ -4,9 +4,6 @@ body {
     background-color: LightGray;
     font-family: "Roboto","sans-serif";
 }
-div {
-    border: 1px solid Chocolate;
-}
 .content {
     padding: 0 0.938rem;
     margin: 0 auto;
