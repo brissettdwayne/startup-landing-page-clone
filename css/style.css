@@ -142,6 +142,9 @@ button:hover {
   padding: 0.625rem 0;
   text-align: center;
 }
+.icons {
+  padding-left: 0px;
+}
 .social .icons > li:hover {
   cursor: pointer;
 }
